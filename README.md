@@ -48,3 +48,9 @@ The implementation of Minotaur's Birthday Party simulation uses the efficient al
 The Minotaur’s Crystal Vase Simulation uses the second strategy provided to control who enters the showroom.
 
 This strategy of using a sign to show when the showroom is available is the most optimal at minimizing the wait and lost time of the guests.
+
+With the 1st option guests could accidentally waste time away from the party going to the showroom when its already occupied 
+
+With the 3rd option guests are waiting all together away from the party as well in order to go to the showroom.
+
+The 2nd option is the most balanced of the options allowing guests to spend the most amount of time at the party while still allowing people to go to the showroom. 

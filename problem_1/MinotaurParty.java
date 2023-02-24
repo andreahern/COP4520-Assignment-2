@@ -43,7 +43,7 @@ public class MinotaurParty {
         }
         minotaur.join();
 
-        System.out.printf("It took %d guest selections until the claim was made!", guests_selected.get());
+        System.out.printf("It took %d guest selections until the claim was made!\n", guests_selected.get());
     }
 }
 
